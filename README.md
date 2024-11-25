@@ -3,7 +3,7 @@
 > 更新时间：2024/11/26 <br />
 > 作者：chatgpt-mirror-zh 
 
-在国内就能直接用的**ChatGPT中文版**！
+在国内就能直接用的**ChatGPT中文版**！ 
 <br />
 **无需翻墙，支持ChatGPT-4，无限使用GPT-4o和o1-preview！** <br />
 
