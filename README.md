@@ -5,7 +5,7 @@
 
 在国内就能直接用的**ChatGPT中文版**！ 
 <br />
-**无需翻墙，支持ChatGPT-4，无限使用GPT-4o和o1-preview！** <br />
+**无需翻墙，支持ChatGPT-4，无限使用GPT-4o和o1-preview！** <br /> 
 
 ## 免费ChatGPT中文版
 
