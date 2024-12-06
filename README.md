@@ -5,15 +5,15 @@
 
 在国内就能直接用的**ChatGPT中文版**！ 
 
-**无需翻墙，支持ChatGPT-4，无限使用GPT-4o和o1-preview！** <br /> 
+**无需翻墙，支持ChatGPT-4，无限使用GPT-4o和o1-preview！**
 
 ## 免费ChatGPT中文版
 
-大家都听过ChatGPT，也都想了解**ChatGPT中文版**知识，尤其是：“**如何免费使用ChatGPT**？”  <br />
-<br />
-截止到现在：ChatGPT一共推出了 **3.5、3.5 turbo、4.0、4.0 Turbo、4.0 Vision、GPT-4o、4o mini、o1、DALL·E3**等这几个常见且成熟的模型，并且模型的小版本还在持续不断的更新~~ <br />
-<br />
-说到4.0，现在能用到的大多都升级4o模型了，那是因为**GPT-4o模型综合能力强，性价比更高**！ <br />
+大家都听过ChatGPT，也都想了解**ChatGPT中文版**知识，尤其是：“**如何免费使用ChatGPT**？”  
+
+截止到现在：ChatGPT一共推出了 **3.5、3.5 turbo、4.0、4.0 Turbo、4.0 Vision、GPT-4o、4o mini、o1、DALL·E3**等这几个常见且成熟的模型，并且模型的小版本还在持续不断的更新~~ 
+
+说到4.0，现在能用到的大多都升级4o模型了，那是因为**GPT-4o模型综合能力强，性价比更高**！
 
 ## ChatGPT模型的3大优势：
 - **速度更快！**
